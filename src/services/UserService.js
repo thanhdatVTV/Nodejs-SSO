@@ -249,7 +249,7 @@ async function checkUser(req, res) {
                             DateOfBirth: studentData.DateOfBirth,
                             StudentId: studentData.StudentId,
                             MajorId: null,
-                            FacultyName: null,
+                            MajorName: null,
                             Type: 0
                         };
                     }
